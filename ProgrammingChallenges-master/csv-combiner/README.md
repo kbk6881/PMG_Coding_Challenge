@@ -13,7 +13,7 @@ You will be able to run my code as follows
 ```
 $ python3 ./csv-combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
 ```
-You will be able to run my code as follows
+
 
 
 
