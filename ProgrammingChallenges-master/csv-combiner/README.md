@@ -9,17 +9,17 @@ Use `filename` as the header for the additional column.
 
 ## Input & Output
 You will be able to run my code as follows.
-csv-combiner2.py can be used when memory limit hits -- this is for code review later
+
+
 
 ```
 $ python3 ./csv-combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
 ```
 
-
-
-
 However, the CSV files inside the fixtures are not the only files we will run
 through. We will run your code through files > 2 GB to see if you hit memory limits.
+(csv-combiner2.py can be used when memory limit hits -- this is for code review later)
+
 
 ## Example
 
