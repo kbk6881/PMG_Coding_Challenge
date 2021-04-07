@@ -8,7 +8,8 @@ filename from which the row came (only the file's basename, not the entire path)
 Use `filename` as the header for the additional column.
 
 ## Input & Output
-You will be able to run my code as follows
+You will be able to run my code as follows.
+csv-combiner2.py can be used when memory limit hits -- this is for code review later
 
 ```
 $ python3 ./csv-combiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv > combined.csv
